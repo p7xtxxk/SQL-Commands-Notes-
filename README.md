@@ -1,1 +1,1 @@
-# SQL-Commands-Notes-
+# MySQL - Commands & Short Notes
